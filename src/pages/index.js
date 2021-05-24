@@ -13,6 +13,7 @@ export default function Home() {
         <p>React devmeowsers</p>
         <Link className={styles.btn} to="/projects">My portfolio projects</Link>
       </div>
+      <img src="/banner.png" alt="sites banner" style={{ maxWidth: '100%'}}/>
     </section>
     </Layout>
   )
