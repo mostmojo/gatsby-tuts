@@ -7,4 +7,9 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata: {
+    title: 'Gatidis',
+    description: 'Meow Dev',
+    copyright: 'Copyright 2021'
+  }
 }
