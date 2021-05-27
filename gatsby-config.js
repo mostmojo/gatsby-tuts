@@ -9,7 +9,7 @@ module.exports = {
   plugins: [],
   siteMetadata: {
     title: 'Gatidis',
-    description: 'Meow Dev',
+    description: 'Meow Dev Business Cat',
     copyright: 'Copyright 2021'
   }
 }
