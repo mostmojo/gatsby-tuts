@@ -13,6 +13,9 @@ export default function Navbar() {
   )
 
   const { title } = data.site.siteMetadata
+  /* ^ The above is the same as but it's just destructured / unpacked
+  const title  = data.site.siteMetadata.title
+  */
 
   return (
     <nav>
