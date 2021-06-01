@@ -20,5 +20,6 @@ module.exports = {
     title: "Gatidis",
     description: "Meow Dev Business Cat",
     copyright: "Copyright 2021",
+    contact: 'hello@mojodigital.io'
   },
 }
